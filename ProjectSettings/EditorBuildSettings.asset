@@ -15,7 +15,7 @@ EditorBuildSettings:
     path: Assets/TopDownEngine/Demos/LevelSelection/LevelSelection.unity
     guid: f991cbe75cb701b43baec351a60a630a
   - enabled: 1
-    path: Assets/MyWorld.unity
+    path: Assets/Scenes/MyWorld.unity
     guid: d1174410a185495439298917edf07eea
   - enabled: 1
     path: Assets/TopDownEngine/Demos/Koala2D/KoalaDungeon.unity
